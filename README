@@ -1,0 +1,17 @@
+Step by step instructions
+
+{'videos' folder contain all the videos, 'Output' folder contains all the output(CSV) files}
+
+1.Create a conda environment with python 3.10.4 with cmd
+
+conda create -n {YOUR_ENVIR_NAME} python=3.10.4
+
+2.Install the requirements:
+
+pip install -r requirements.txt
+
+3. GOTO the code and on Line number 36 , Specify the video file path.
+
+4. Run the program
+
+5. after the execution is finished. In 'OUTPUT' folder you will find a CSV file of your video.
